@@ -11,7 +11,7 @@
               <option name="virtualMachinePath" value="/Users" />
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
-              <option name="localPath" value="/app" />
+              <option name="localPath" value="$USER_HOME$/code/blog/app" />
               <option name="virtualMachinePath" value="/" />
             </DockerPathMappingImpl>
           </list>
